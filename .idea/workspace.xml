@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="204bf964-7c44-410f-bd6b-c9a787556079" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/log-spin.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/list_personnel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/personnel_classification.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/view_personnel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/header.php" afterPath="$PROJECT_DIR$/inc/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personnel/add_personnel.php" afterPath="$PROJECT_DIR$/personnel/add_personnel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personnel/view_personnel.php" afterPath="$PROJECT_DIR$/personnel/view_personnel.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -143,30 +136,15 @@
       <file leaf-file-name="view_personnel.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/personnel/view_personnel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="370">
+              <caret line="505" column="0" lean-forward="true" selection-start-line="505" selection-start-column="0" selection-end-line="505" selection-end-column="0" />
               <folding>
-                <marker date="1515653695890" expanded="true" signature="13839:13893" ph="Select * fro... nationalities" />
-                <marker date="1515653695890" expanded="true" signature="17695:17755" ph="Select id, r... regions" />
-                <marker date="1515653695890" expanded="true" signature="23132:23234" ph="Select staff... staff" />
-                <marker date="1515653695890" expanded="true" signature="24931:25004" ph="Select id, n... department" />
-                <marker date="1515653695890" expanded="true" signature="26416:26478" ph="Select id, b... branches" />
-                <marker date="1515653695890" expanded="true" signature="29903:29950" ph="Select id, n... id_type" />
-                <marker date="1515653695890" expanded="true" signature="50540:50550" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="50764:50774" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="50989:50999" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="51209:51219" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="51436:51446" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="51673:51683" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="51895:51905" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="52125:52135" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="52354:52364" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="52587:52597" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="52853:52863" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="53081:53091" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="53306:53316" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="53528:53538" ph="..." />
-                <marker date="1515653695890" expanded="true" signature="53757:53767" ph="..." />
+                <marker date="1515655238857" expanded="true" signature="424:461" ph="Select * fro... staff" />
+                <marker date="1515655238857" expanded="true" signature="17092:17184" ph="Select cat_i... staff_category" />
+                <marker date="1515655238857" expanded="true" signature="18037:18111" ph="Select id, n... mmda_type" />
+                <marker date="1515655238857" expanded="true" signature="19650:19723" ph="Select staff... staff" />
+                <marker date="1515655238857" expanded="true" signature="20750:20793" ph="Select id, n... department" />
+                <marker date="1515655238857" expanded="true" signature="21606:21655" ph="Select id, b... branches" />
               </folding>
             </state>
           </provider>
@@ -239,8 +217,8 @@
       <find>usr_link</find>
       <find>$_POST['priv_check']</find>
       <find>user_cat</find>
-      <find>$security</find>
       <find>Mini file input button</find>
+      <find>$security</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -273,6 +251,7 @@
         <option value="$PROJECT_DIR$/personnel/add_personnel.php" />
         <option value="$PROJECT_DIR$/personnel/list_personnel.php" />
         <option value="$PROJECT_DIR$/personnel/personnel_classification.php" />
+        <option value="$PROJECT_DIR$/personnel/view_personnel.php" />
       </list>
     </option>
   </component>
@@ -543,12 +522,12 @@
       <workItem from="1515113082127" duration="5444000" />
       <workItem from="1515120463086" duration="21132000" />
       <workItem from="1515234469350" duration="9032000" />
-      <workItem from="1515622905492" duration="6323000" />
+      <workItem from="1515622905492" duration="6980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51946000" />
+    <option name="totallyTimeSpent" value="52603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -1090,30 +1069,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/personnel/view_personnel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="370">
+          <caret line="505" column="0" lean-forward="true" selection-start-line="505" selection-start-column="0" selection-end-line="505" selection-end-column="0" />
           <folding>
-            <marker date="1515653695890" expanded="true" signature="13839:13893" ph="Select * fro... nationalities" />
-            <marker date="1515653695890" expanded="true" signature="17695:17755" ph="Select id, r... regions" />
-            <marker date="1515653695890" expanded="true" signature="23132:23234" ph="Select staff... staff" />
-            <marker date="1515653695890" expanded="true" signature="24931:25004" ph="Select id, n... department" />
-            <marker date="1515653695890" expanded="true" signature="26416:26478" ph="Select id, b... branches" />
-            <marker date="1515653695890" expanded="true" signature="29903:29950" ph="Select id, n... id_type" />
-            <marker date="1515653695890" expanded="true" signature="50540:50550" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="50764:50774" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="50989:50999" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="51209:51219" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="51436:51446" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="51673:51683" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="51895:51905" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="52125:52135" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="52354:52364" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="52587:52597" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="52853:52863" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="53081:53091" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="53306:53316" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="53528:53538" ph="..." />
-            <marker date="1515653695890" expanded="true" signature="53757:53767" ph="..." />
+            <marker date="1515655238857" expanded="true" signature="424:461" ph="Select * fro... staff" />
+            <marker date="1515655238857" expanded="true" signature="17092:17184" ph="Select cat_i... staff_category" />
+            <marker date="1515655238857" expanded="true" signature="18037:18111" ph="Select id, n... mmda_type" />
+            <marker date="1515655238857" expanded="true" signature="19650:19723" ph="Select staff... staff" />
+            <marker date="1515655238857" expanded="true" signature="20750:20793" ph="Select id, n... department" />
+            <marker date="1515655238857" expanded="true" signature="21606:21655" ph="Select id, b... branches" />
           </folding>
         </state>
       </provider>
